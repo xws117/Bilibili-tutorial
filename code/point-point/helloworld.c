@@ -26,3 +26,4 @@ int main(int argc, char** argv) {
     // 释放 MPI 的一些资源
     MPI_Finalize();
 }
+
